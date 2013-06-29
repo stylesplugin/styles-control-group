@@ -1,8 +1,10 @@
+.customize-control-styles-group:first-child {
+	margin-top: -10px;
+}
 .customize-control-styles-group {
-	background-color: #EEE;
-	color: #666;
-	width: 100%;
-	margin: 0 -40px 10px -40px;
+	margin: 5px -20px;
+	padding: 8px 20px;
 	font-weight: bold;
-	padding: 20px 40px;
+	background: #eaeaea;
+	color: #333;
 }

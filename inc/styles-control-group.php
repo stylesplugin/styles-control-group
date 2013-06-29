@@ -12,7 +12,7 @@ if ( class_exists( 'Styles_Control' ) ) :
 class Styles_Control_Group extends Styles_Control {
 
 	public function __construct( $group, $element ) {
-		// No selector needed for a group -- it's not an option
+		// No selector needed for a group
 		$element['selector'] = true;
 
 		// Default label
