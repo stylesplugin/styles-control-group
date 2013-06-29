@@ -8,4 +8,4 @@ When the plugin is active, type `group` in customize.json will display as a sub-
 
 ### Full Display
 
-![WordPress Customizer vs. customize.json](stylesplugin.github.com/styles-control-group/screenshot-1.png)
+![WordPress Customizer vs. customize.json](https://raw.github.com/stylesplugin/styles-control-group/master/screenshot-1.png)
